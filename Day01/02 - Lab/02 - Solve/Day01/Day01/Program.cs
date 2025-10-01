@@ -115,7 +115,6 @@ namespace Day01
 
             #endregion
 
-
         }
     }
 }
