@@ -86,7 +86,7 @@ namespace Day02
 
             #endregion
 
-            #region 03 - Delete Specific Student(Deleted)
+            #region 03 - Delete Specific Course(Deleted)
 
             //commandString = "select * from course";
 

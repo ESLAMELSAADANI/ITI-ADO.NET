@@ -47,7 +47,6 @@ namespace WinForm_CRUD
                     }
                     catch (Exception ex)
                     {
-
                         Console.WriteLine("Error " + ex.Message);
                     }
                 }
